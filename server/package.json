@@ -1,0 +1,20 @@
+{
+  "name": "athena-server",
+  "version": "1.0.0",
+  "description": "An Encrypted HTTP-based proxy server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshgarde/athena.git"
+  },
+  "author": "Josh Garde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshgarde/athena/issues"
+  },
+  "homepage": "https://github.com/joshgarde/athena#readme"
+}

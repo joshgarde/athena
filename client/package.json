@@ -1,0 +1,22 @@
+{
+  "name": "athena-client",
+  "version": "1.0.0",
+  "description": "An encrypted HTTP-based proxy client",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshgarde/athena.git"
+  },
+  "author": "Josh Garde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshgarde/athena/issues"
+  },
+  "homepage": "https://github.com/joshgarde/athena#readme",
+  "dependencies": {
+    "socksv5": "0.0.6"
+  }
+}
